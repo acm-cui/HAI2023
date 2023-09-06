@@ -1,2 +1,2 @@
 ### Submission
- Papers should be submitted to [Jaisie Sin](mailto:js.sin@mail.utoronto.ca) by email.
+ Papers should be submitted to [Éva Székely](mailto:szekely@kth.se) by email.
