@@ -1,0 +1,33 @@
+title: >-
+  Why is my Agent so Slow? Deploying Human-Like Conversational Turn-Taking
+tagline: >-
+  A workshop at the HAI 2023 conference
+description: >- # this means to ignore newlines until "baseurl:"
+  A HAI 2023 workshop bringing together researchers from the CUI and HAI 
+  communities.
+
+excerpts:
+  # Displays or hides post excerpts from home layout post listing.
+  show: true
+  # Cuts off excerpts with an ellipsis (...) after 32 words (approx. 2 lines).
+  # You can also leave this false, and manually control excerpt length:
+  # https://jekyllrb.com/docs/posts/#post-excerpts
+  auto_truncate: true
+
+# Theme configuration
+bootstrap:
+  # Theme date format
+  # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+  date_format: "%b %-d, %Y"
+
+
+
+# Build settings
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-last-modified-at
+  - jekyll-optional-front-matter
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jekyll-titles-from-headings
