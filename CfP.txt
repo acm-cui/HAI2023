@@ -1,0 +1,73 @@
+CALL FOR PARTICIPATION
+
+We are calling for post graduate students and academic staff to
+participate in our upcoming workshop:
+
+Why is my Agent so Slow? Deploying Human-Like Conversational Turn-Taking
+
+At HAI (human Agent Interaction) 2023 in Gothenberg on 4th December
+2023.
+
+The emphasis on one-to-one speak/wait spoken conversational
+interaction with intelligent agents leads to long pauses between
+conversational turns, undermines the flow and naturalness of the
+interaction, and undermines the user experience. Despite ground
+breaking advances in the area of generating and understanding natural
+language with techniques such as LLMs, conversational interaction has
+remained relatively overlooked. In this workshop we will discuss and
+review the challenges, recent work and potential impact of improving
+conversational interaction with artificial systems. We hope to share
+experiences of poor human/system interaction, best practices with
+third party tools, and generate design guidance for the community.
+
+The workshop will be of interest primarily for HAI attendees who work
+with spoken conversation as the main means of interaction between
+their systems and users. However, we also hope that attendees working
+with other modalities, who are curious about how spoken conversational
+interaction may improve or support their work, will also attend. We
+will ask all attendees to complete a mandatory one page expression of
+interest to help support workshop discussions.
+
+Paper submission is optional. Eight accepted papers of sufficient
+quality, interest for the workshop, and ability to provoke discussion
+will be given a 10 minute presentation slot and will be optionally
+hosted on the workshop website. Submitted papers shouldn't be
+published elsewhere before the workshop but we are happy for it to be
+published elsewhere after the workshop. 
+
+For further information or to be added to the workshop email list
+please contact: Éva Székely szekely@kth.se
+
+
+Organisers:
+Matthew Aylett is an Associate Professor at Heriot Watt Edin- burgh
+and a co-founder and Chief Scientific Officer of CereProc. His work
+focuses on human/robot interaction and conversational interaction.
+
+Éva Székely is an Assistant Professor at KTH Royal Institute of
+Technology, Stockholm, Sweden. Her research focuses on conversa-
+tional speech synthesis and the perception on spontaneous speech
+phenomena.
+
+Donald McMillan is an Assistant Professor in Human-Computer
+Interaction at Stockholm University. His research is on the adoption
+and use of novel technology such as multi-modal conversational agents
+in everyday settings.
+
+Gabriel Skantze is a Professor in Speech Technology at KTH where he is
+leading several research projects related to Conversational AI and
+Human-Robot Interaction and former President of SIGDIAL.
+
+Marta Romeo is an Assistant Professor in Computer Science at
+Heriot-Watt University. Her research interests include trustworthy
+human-robot interactions, social robotics and affective computing.
+
+Joel Fischer is Professor of Human-Computer Interaction at the
+University of Nottingham. His research takes a human-centred view on
+AI-infused technologies. His research approach is multidisciplinary,
+drawing on ethnography, participatory design, prototyping, and studies
+of technology deployments.
+
+Gisela Reyes Cruz is a Research Fellow, University of Nottingham. Her
+research looks at the intersection between Human Computer Interaction
+and Accessibility.
