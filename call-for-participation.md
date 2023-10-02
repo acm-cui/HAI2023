@@ -36,7 +36,7 @@ quality, interest for the workshop, and ability to provoke discussion
 will be given a 10 minute presentation slot and will be optionally
 hosted on the workshop website. Submitted papers shouldn't be
 published elsewhere before the workshop but we are happy for it to be
-published elsewhere after the workshop. For details see our [Call for Papers](/call-for-papers.html)
+published elsewhere after the workshop. For details see our [Call for Papers](/workshops/HAI2023/call-for-papers.html)
 
 For further information or to be added to the workshop email list
 please contact: [Marta Romeo](mailto:M.Romeo@hw.ac.uk)
