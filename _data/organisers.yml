@@ -1,8 +1,8 @@
-- name: Mathew Aylet
+- name: Matthew Aylett
   website: https://www.mathew.com/ 
-  image: mathew.png
+  image: matthew-aylett.jpg
   biography:  >-
-    is an Associate Professor at Heriot Watt Edin- burgh
+    is an Associate Professor at Heriot Watt Edinburgh
     and a co-founder and Chief Scientific Officer of CereProc. His work
     focuses on human/robot interaction and conversational interaction.
     
@@ -34,7 +34,7 @@
 
 - name: Marta Romeo
   website: 
-  image: marta.jpg 
+  image: marta-romeo.jpg 
   biography:  >-
     is an Assistant Professor in Computer Science at
     Heriot-Watt University. Her research interests include trustworthy

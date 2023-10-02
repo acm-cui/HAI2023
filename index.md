@@ -19,3 +19,17 @@ is required within a fixed time window, a multi-threaded architecture is require
 (3) The agent you use to render behavior must be: pollable - you know what is said when; interruptible - you can halt it gracefully at any moment; and streamable - you can queue up requests to the system. This has become particularly problematic with cloud based/web based interfaces where the system may not even know what audio device is being used.
 
 We have evidence that poor turn-taking has an impact on user experience e.g. “users not only rate the incremental system as moreresponsive, but also rate its recommendation performance as higher.” The time is right to look squarely at the challenges in imple- menting and deploying human-like turn-taking and build systems that will make a significant difference.
+
+|Start Time | Activity|
+|-------|
+|9.30am | Welcome |
+|9.45am | Keynote Gabriel Skantze: KTH |
+|10.45am | Brief introductions from all attendees |
+|11.15am | Coffee Break |
+|11.45am | Group discussion: Experiences and failures with spoken conversational systems |
+|13.00pm | Lunch Break |
+|14.15pm | 8 Short 10 minute talks from attendees |
+|15.35pm | Group discussion: Design guidelines for building human-like turn-taking systems |
+|17.00pm | Conclusion and wrap up |
+|17.10pm | End of Workshop |
+|19.00pm | Informal workshop dinner |
