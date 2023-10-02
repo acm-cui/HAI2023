@@ -9,12 +9,7 @@ nav_position: 3
 
 
 We are calling for post graduate students and academic staff to
-participate in our upcoming workshop:
-
-Why is my Agent so Slow? Deploying Human-Like Conversational Turn-Taking
-
-At HAI (human Agent Interaction) 2023 in Gothenberg on 4th December
-2023.
+participate in our upcoming workshop. 
 
 The emphasis on one-to-one speak/wait spoken conversational
 interaction with intelligent agents leads to long pauses between
@@ -44,6 +39,6 @@ published elsewhere before the workshop but we are happy for it to be
 published elsewhere after the workshop. For details see our [Call for Papers](/call-for-papers.html)
 
 For further information or to be added to the workshop email list
-please contact: [Éva Székely](szekely@kth.se)
+please contact: [Marta Romeo](mailto:M.Romeo@hw.ac.uk)
 
 

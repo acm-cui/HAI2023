@@ -38,7 +38,7 @@ published elsewhere before the workshop -- but we are happy for it to be
 published elsewhere after the workshop. 
 
 For further information or to be added to the workshop email list
-please contact: [Éva Székely](mailto:szekely@kth.se)
+please contact: [Marta Romeo](mailto:M.Romeo@hw.ac.uk)
 
 ## Publication
 

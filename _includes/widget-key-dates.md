@@ -1,14 +1,14 @@
 ### Key dates
 
 **Submissions due**<br>
-TBD
+13th November 2023
 
 
 **Notifications sent**<br>
-TBD
+20th November 2023 
 
 **Camera-ready submission deadline**<br>
-TBD
+27th November 2023
 
-**Workshop date & time**<br>
-December 4th, 2023, TBD
+**Workshop date**<br>
+December 4th, 2023

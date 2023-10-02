@@ -21,7 +21,7 @@ is required within a fixed time window, a multi-threaded architecture is require
 We have evidence that poor turn-taking has an impact on user experience e.g. “users not only rate the incremental system as moreresponsive, but also rate its recommendation performance as higher.” The time is right to look squarely at the challenges in imple- menting and deploying human-like turn-taking and build systems that will make a significant difference.
 
 |Start Time | Activity|
-|-------|
+|-----------|---------|
 |9.30am | Welcome |
 |9.45am | Keynote Gabriel Skantze: KTH |
 |10.45am | Brief introductions from all attendees |
