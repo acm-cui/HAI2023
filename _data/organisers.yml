@@ -8,7 +8,7 @@
     
 - name: Éva Székely
   website: 
-  image: eva.png
+  image: placeholder.jpeg
   biography:  >-
     is an Assistant Professor at KTH Royal Institute of
     Technology, Stockholm, Sweden. Her research focuses on conversa-
@@ -26,7 +26,7 @@
     
 - name: Gabriel Skantze
   website: 
-  image: gabriel.jpg 
+  image: placeholder.jpeg 
   biography:  >-
     is a Professor in Speech Technology at KTH where he is
     leading several research projects related to Conversational AI and
@@ -42,7 +42,7 @@
         
 - name: Joel Fischer
   website: 
-  image: joel.jpg 
+  image: placeholder.jpeg 
   biography:  >-
     is Professor of Human-Computer Interaction at the
     University of Nottingham. His research takes a human-centred view on
@@ -52,7 +52,7 @@
     
 - name: Gisela Reyes Cruz  
   website:
-  image: gisela.jpg 
+  image: placeholder.jpeg 
   biography:  >-
     is a Research Fellow, University of Nottingham. Her
     research looks at the intersection between Human Computer Interaction

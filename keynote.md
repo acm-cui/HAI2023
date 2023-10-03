@@ -8,7 +8,7 @@ nav_position: 1
 
 ## Workshop Keynote - Gabriel Skantze 
 
-<img src="assets/img/gabriel.png" alt="Photo of Gabriel." height="300">
+<img src="assets/img/placeholder.jpeg" alt="Photo of Gabriel." height="300">
 
 Gabriel is a Professor in Speech Communication and Technology, with a specialization in Conversational Systems, at the Department of Speech Music and Hearing at KTH in Stockholm as well as a co-founder of Furhat Robotics. 
 
